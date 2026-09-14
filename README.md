@@ -6,3 +6,8 @@ Course link: https://github.com/DataTalksClub/machine-learning-zoomcamp
 
 Course platform: https://courses.datatalks.club/ml-zoomcamp-2026/
 
+Conda environment:
+
+```
+conda activate ml-zoomcamp
+```
